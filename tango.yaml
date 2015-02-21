@@ -1,0 +1,68 @@
+name: Tango
+version: 1.0
+description: "Tango is a collection of smileys and emoticons from the [Tango Desktop Project](http://tango.freedesktop.org/)."
+author:
+  name: Tango Desktop Project
+homepage: http://tango.freedesktop.org/Tango_Desktop_Project
+license: GPL
+
+smileys:
+  angel:
+    enabled: true
+    acronyms: "O:-) O:) O+) O=) 0:-3 0:3 0:-) 0:) 0+) 0=) 0;^)"
+    description: "innocent"
+
+  crying:
+    enabled: true
+    acronyms: ":'-( :'( :'-) :')"
+    description: "crying"
+
+  devil-grin:
+    enabled: true
+    acronyms: "]:-> }:-> ]:> }:> >:-] >:] >:) >;) >:-) }:-) }:) :devil: :diablo:"
+    description: "evil"
+
+  glasses:
+    enabled: true
+    acronyms: "B-) B) 8-) 8) |;-) |-O :cool:"
+    description: "cool"
+
+  kiss:
+    enabled: true
+    acronyms: ":-* :* :-{} :{} +{} ={} ^.^"
+    description: "kiss"
+
+  monkey:
+    enabled: true
+    acronyms: ":(|) :-(|)"
+    description: "mokey"
+
+  plain:
+    enabled: true
+    acronyms: ">:\ >:/ :-\ :-/ :-. :/ :\ :-\\ =/ =\ :S :-| :| =| :-| :undecided:"
+    description: "undecided"
+
+  sad:
+    enabled: true
+    acronyms: ":-( :( +( =( :-(( :(( +(( =(( >:[ :-c :c :-< :< :-[ :[ :{ >.> <.< >.<"
+    description: "sad"
+
+  smile:
+    enabled: true
+    acronyms: ":-) :) +) :o) :] :3 :c) :> =] 8) =) :} :^)"
+    description: "smile"
+
+  big-smile:
+    enabled: true
+    acronyms: ">:D :-D :D 8-D 8D x-D xD X-D XD +D =-D =D =-3 =3 :lol: :rofl: :grin:"
+    description: "big smile"
+
+  surprise:
+    enabled: true
+    acronyms: ">:o >:O :-O :O °o° °O° :O o_O o_0 o.O 8-0 =-O =O =-o =0 O_O O_o o_O O_0 o_0 0_O 0_o O_O :shocked:"
+    description: "surprised"
+
+  wink:
+    enabled: true
+    acronyms: ";-) ;) >;] ;-) ;) *-) *) ;-] ;] ;D ;^) ^_~"
+    description: "wink"

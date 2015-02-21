@@ -1,0 +1,10 @@
+name: Emoji
+version: 1.0
+description: "Emoji is the ultimate collection of smileys and emoticons from [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com) for [Grav](http://getgrav.org)."
+author:
+  name: arvida
+homepage: https://github.com/arvida/emoji-cheat-sheet.com
+docs: http://www.emoji-cheat-sheet.com
+license: Mixed
+
+items: @all                    # Wildcard
