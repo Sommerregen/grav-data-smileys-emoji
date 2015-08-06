@@ -36,7 +36,7 @@ I love you :heart:
 
 will then transform to
 
-<code>I love you :heart:</code>
+`I love you` :heart:
 
 ### Contents
 

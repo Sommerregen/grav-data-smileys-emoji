@@ -1,3 +1,9 @@
+# v1.0.2
+## 08/06/2015
+
+3. [](#bugfix)
+  * Fixed broken icon in [README.md](README.md)
+
 # v1.0.1
 ## 08/05/2015
 
